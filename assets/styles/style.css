@@ -730,11 +730,10 @@ article .demo{
     }
 
     .mobile-title a:hover{
-        background-color: var(--clr-light);
-        color: var(--clr-darkblue);
-        padding: 4px 6px;
-        border: 1px solid var(--clr-darkblue);
-        border-radius: 4px;
+        background-color: var(--clr-blue);
+        color: var(--clr-light);
+        padding: 4px 8px;
+        border-radius: 3px;
     }
 
     nav img{
