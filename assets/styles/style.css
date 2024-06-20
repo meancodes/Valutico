@@ -724,8 +724,15 @@ article .demo{
         font-weight: 700;
     }
 
-    .mobile-title span{
+    .mobile-title a{
+        text-decoration: none;
         color: var(--clr-blue);
+    }
+
+    .mobile-title a:hover{
+        background-color: var(--clr-light);
+        color: var(--clr-darkblue);
+        padding: 4px 6px;
     }
 
     nav img{
