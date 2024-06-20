@@ -733,6 +733,8 @@ article .demo{
         background-color: var(--clr-light);
         color: var(--clr-darkblue);
         padding: 4px 6px;
+        border: 1px solid var(--clr-darkblue);
+        border-radius: 4px;
     }
 
     nav img{
