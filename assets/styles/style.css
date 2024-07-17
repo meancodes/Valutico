@@ -688,7 +688,8 @@ article .demo{
     
     nav{
         box-shadow: none;
-        position: unset;
+        top: 106.94px;
+        box-shadow: 0px 4px 4px 0px #0000000D;
     }
 
     #sidebar{
@@ -705,7 +706,7 @@ article .demo{
         flex-direction: column;
         padding: 16.45px 2.5%;
         gap: 16.45px;
-        box-shadow: 0px 4px 4px 0px #0000000D;
+        border-bottom:0.5px solid #0000000D;
     }
 
     .bi-wifi-2, .bi-list, .mobile-title .bi-x-lg{
